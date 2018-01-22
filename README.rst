@@ -18,23 +18,33 @@ trade-mgr
      :alt: Updates
 
 
-Crypto currency CLI trade manager
+Crypto currency CLI trade manager [IN DEVELOPMENT]
+
+A simple CLI tool to help you trade crypto currencies.
+
+What motivated this tool:
+
+- Add sanity checks when trading. To avoid buy at a higher price than the market
+  by a typing mistake for example
+- Keep an automated log of trades. To integrate with beancount for example
 
 
 * Free software: GNU General Public License v3
 * Documentation: https://trade-mgr.readthedocs.io.
 
-
-Features
---------
-
-* TODO
-
 Credits
 ---------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was initially created by vonpupp_.
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+Donations are welcome.
 
+- BTC:
+- ETH:
+- LTC:
+- DOGE:
+
+Want to donate in another coin? Please get in touch by opening an issue_
+
+.. _vonpupp: https://github.com/vonpupp/
+.. _issue: https://github.com/vonpupp/trade-mgr/issues
