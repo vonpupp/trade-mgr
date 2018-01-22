@@ -37,7 +37,7 @@ setup(
     packages=find_packages(include=['trade_mgr']),
     entry_points={
         'console_scripts': [
-            'trade_mgr=trade_mgr.cli:main'
+            'trade-mgr=trade_mgr.cli:main'
         ]
     },
     include_package_data=True,
